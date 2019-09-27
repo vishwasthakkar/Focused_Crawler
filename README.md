@@ -7,3 +7,6 @@ You can also do a full crawl instead of a focused crawl. That meas you don't nee
 present in the crawled pages.
 
 Libraries used : requests, bs4
+
+# Setup:
+Read the README file in the code folder. :)
